@@ -1,5 +1,6 @@
 # Basic configuration
 title: Daniel Donnelly
+logo: "./profile.jpg" # File path for the image
 baseurl: "" # Leave blank
 url: "https://danieldonnelly7.github.io"
 
@@ -9,7 +10,6 @@ theme: jekyll-theme-minimal
 # Author information
 author:
   location: "United Kingdom"
-  avatar: "./profile.jpg" # File path for the image
   email: "danieldonnelly46@gmail.com"
 
 # Navigation
