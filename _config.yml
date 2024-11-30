@@ -1,6 +1,5 @@
 # Basic configuration
 title: Daniel Donnelly
-description: AI Researcher
 baseurl: "" # Leave blank
 url: "https://danieldonnelly7.github.io"
 
@@ -9,8 +8,6 @@ theme: jekyll-theme-primer
 
 # Author information
 author:
-  name: "Daniel Donnelly"
-  bio: "I’m an AI researcher with experience in machine learning, reinforcement learning, uncertainty quantification, and runtime verification."
   location: "United Kingdom"
   email: "danieldonnelly46@gmail.com"
 
