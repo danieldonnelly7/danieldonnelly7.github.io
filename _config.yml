@@ -5,33 +5,19 @@ baseurl: "" # Leave blank
 url: "https://danieldonnelly7.github.io"
 
 # Theme and plugins
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Author information
 author:
   name: "Daniel Donnelly"
-  avatar: "profile.jpg"
+  avatar: "/assets/images/profile.jpg"
   bio: "I’m an AI researcher with experience in machine learning, reinforcement learning, uncertainty quantification, and runtime verification. My current research focuses on developing language-based approaches for reward specification and monitoring for reinforcement learning agents, leveraging frameworks like Runtime Monitoring Language (RML)."
   location: "United Kingdom"
   email: "danieldonnelly46@gmail.com"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/danieldonnelly7"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/daniel-donnelly-428701170"
-
-# Navigation
-nav:
-  - title: "About"
-    url: /
-  - title: "Education"
-    url: /education/
-
 
 # Social media icons
 social:
