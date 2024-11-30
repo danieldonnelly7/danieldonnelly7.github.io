@@ -20,7 +20,7 @@ I’m an AI researcher with experience in machine learning, reinforcement learni
 - **MSc in Data Science and AI**, 2023  
   Queen Mary University of London
 
-- **BSc in Mathematics**, 2022  
+- **BSc in Mathematics**, 2019  
   Cardiff University
 
 ---
