@@ -6,9 +6,6 @@ permalink: /
 
 <img src="./profile.jpg" alt="Daniel Donnelly" style="width:150px;border-radius:50%;">
 
-# Daniel Donnelly
-**AI Researcher**
-
 ---
 
 ## About
