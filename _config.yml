@@ -9,6 +9,7 @@ theme: jekyll-theme-minimal
 # Author information
 author:
   location: "United Kingdom"
+  avatar: "./profile.jpg" # File path for the image
   email: "danieldonnelly46@gmail.com"
 
 # Navigation
