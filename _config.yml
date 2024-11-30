@@ -1,6 +1,7 @@
 # Basic configuration
 title: Daniel Donnelly
 logo: "./profile.jpg" # File path for the image
+description: ""
 baseurl: "" # Leave blank
 url: "https://danieldonnelly7.github.io"
 
