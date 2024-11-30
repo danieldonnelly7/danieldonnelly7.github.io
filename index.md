@@ -4,7 +4,7 @@ title: "About"
 permalink: /
 ---
 
-<img src="/assets/images/profile.jpg" alt="Daniel Donnelly" style="width:150px;border-radius:50%;">
+<img src="profile.jpg" alt="Daniel Donnelly" style="width:150px;border-radius:50%;">
 
 # Daniel Donnelly
 **AI Researcher**
