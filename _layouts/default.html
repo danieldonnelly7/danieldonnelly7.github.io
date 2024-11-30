@@ -14,15 +14,15 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <h1 style="text-align: center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <header style="text-align: center;"">
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" style="width: 200px; border-radius: 50%; margin-bottom: 20px; text-align: center;" />
+          <img src="{{ site.logo | relative_url }}" alt="Logo" style="width: 200px; border-radius: 50%; margin-bottom: 20px;" />
         {% endif %}
 
         <!-- Social Icons -->
-        <div class="social-icons" style="margin-top: 20px; text-align: center;">
+        <div class="social-icons" style="margin-top: 20px;">
           <!-- GitHub -->
           <a href="https://github.com/danieldonnelly7" target="_blank" style="margin-right: 10px;">
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" style="width: 30px; height: 30px;">
