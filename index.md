@@ -29,3 +29,4 @@ I’m an AI researcher with experience in machine learning, reinforcement learni
 
 ## Contact
 [Email](mailto:danieldonnelly46@gmail.com) | [GitHub](https://github.com/danieldonnelly7) | [LinkedIn](www.linkedin.com/in/daniel-donnelly-428701170)
+
