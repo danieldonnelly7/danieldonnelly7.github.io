@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "About"
 permalink: /
 ---
@@ -7,7 +7,7 @@ permalink: /
 <img src="/assets/images/profile.jpg" alt="Daniel Donnelly" style="width:150px;border-radius:50%;">
 
 # Daniel Donnelly
-**AI Researcher**  
+**AI Researcher**
 
 ---
 
@@ -29,6 +29,4 @@ I’m an AI researcher with experience in machine learning, reinforcement learni
 ---
 
 ## Contact
-<a href="mailto:danieldonnelly46@gmail.com"><i class="fas fa-envelope"></i></a>
-<a href="https://github.com/danieldonnelly7"><i class="fab fa-github"></i></a>
-<a href="https://www.linkedin.com/in/daniel-donnelly-428701170"><i class="fab fa-linkedin"></i></a>
+[Email](mailto:danieldonnelly46@gmail.com) | [GitHub](https://github.com/danieldonnelly7) | [LinkedIn](https://www.linkedin.com/in/daniel-donnelly-428701170)
