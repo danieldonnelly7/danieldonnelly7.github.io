@@ -4,7 +4,7 @@ baseurl: "" # Leave blank
 url: "https://danieldonnelly7.github.io"
 
 # Use a simpler theme
-theme: jekyll-theme-primer
+theme: jekyll-theme-minimal
 
 # Author information
 author:
