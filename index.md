@@ -4,10 +4,6 @@ title: "About"
 permalink: /
 ---
 
-<img src="./profile.jpg" alt="Daniel Donnelly" style="width:150px;border-radius:50%;">
-
----
-
 ## About
 I’m an AI researcher with experience in machine learning, reinforcement learning, uncertainty quantification, and runtime verification. My current research focuses on developing language-based approaches for reward specification and monitoring for reinforcement learning agents, leveraging frameworks like Runtime Monitoring Language (RML).
 
